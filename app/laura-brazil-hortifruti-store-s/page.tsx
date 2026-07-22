@@ -27,7 +27,7 @@ export default function LauraHortifrutiSketch() {
           fontWeight={700}
           fill="#1f2937"
         >
-          Feira Fresca — como a loja se encaixa
+          Colheita — como a loja se encaixa
         </text>
 
         {/* Fase 1 */}
